@@ -613,7 +613,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="mem-out scale" />
+        <Component Name="Belt Conveyor (6m) 0 (V)" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -628,13 +628,13 @@
     </Access>
     <Access Scope="LiteralConstant" UId="28">
       <Constant>
-        <ConstantType>Real</ConstantType>
-        <ConstantValue>0.0</ConstantValue>
+        <ConstantType>Int</ConstantType>
+        <ConstantValue>0</ConstantValue>
       </Constant>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="mem-out scale" />
+        <Component Name="Belt Conveyor (6m) 0 (V)" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="30" />
@@ -759,7 +759,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="mem-out scale" />
+        <Component Name="Belt Conveyor (6m) 0 (V)" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -774,13 +774,13 @@
     </Access>
     <Access Scope="LiteralConstant" UId="28">
       <Constant>
-        <ConstantType>Real</ConstantType>
-        <ConstantValue>0.0</ConstantValue>
+        <ConstantType>Int</ConstantType>
+        <ConstantValue>0</ConstantValue>
       </Constant>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="mem-out scale" />
+        <Component Name="Belt Conveyor (6m) 0 (V)" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="30" />
